@@ -1,0 +1,5 @@
+train: ./dataset/images/train
+val: ./dataset/images/val
+
+nc: 14
+names: ['10_pesos', '20_pesos', '50_pesos', '100_pesos', '200_pesos', '500_pesos', '1000_pesos', '10000_pesos', '1_dolares', '5_dolares', '10_dolares', '20_dolares', '50_dolares', '100_dolares']
