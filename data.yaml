@@ -1,0 +1,5 @@
+train: C:\Users\Francisco\Desktop\tp-final-cv\dataset\train\images
+val: C:\Users\Francisco\Desktop\tp-final-cv\dataset\valid\images
+
+nc: 5
+names: ['100_pesos', '200_pesos', '20_pesos', '500_pesos', '50_pesos']
